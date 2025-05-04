@@ -19,6 +19,7 @@ I'm currently exploring opportunities to apply my knowledge in real-world projec
 - C, C++, Java, Python  
 - HTML5, CSS, MySQL  
 - Git & GitHub
+- Figma, Canva, Basic Photo and Video Editing
 
 ---
 
