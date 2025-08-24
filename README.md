@@ -3,11 +3,24 @@
 🎓 **Computer Science & Engineering Student** at Daffodil International University  
 💼 Passionate about software development, data analysis, and creative problem-solving  
 
-[![image](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://sites.google.com/view/mohi28)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akibh987@gmail.com)
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohi28/)
-[![image](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/slightsmile)
-[![image](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Slightsmile)
+<p align="center">
+  <a href="https://sites.google.com/view/mohi28">
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/>
+  </a>
+  <a href="mailto:akibh987@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mohi28/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://dev.to/slightsmile">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
+  </a>
+  <a href="https://t.me/Slightsmile">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+</p>
+
 
 ---
 
@@ -21,7 +34,7 @@ I'm currently exploring opportunities to apply my knowledge in real-world projec
 
 <p align="center">
   <a href="="https://skills.syvixor.com">
-    <img src="https://skills.syvixor.com/api/icons?i=c,cpp,java,python,html,css3,git,mysql,ubuntu,latex,figma,canva,capcut" />
+    <img src="https://skills.syvixor.com/api/icons?i=c,cpp,java,python,html,css3,javascript,arduino,git,mysql,ubuntu,latex,figma,canva,capcut" />
   </a>
 </p>
 <p align="center">
