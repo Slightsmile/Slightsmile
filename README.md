@@ -18,12 +18,18 @@ I'm a motivated and responsible CSE student with experience in both technical an
 I'm currently exploring opportunities to apply my knowledge in real-world projects, contribute to open-source, and grow as a developer. I believe in continuous learning and strive to be a part of impactful tech communities.
 
 ---
-  
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,html,css,mysql,latex,figma&theme=dark)](https://skillicons.dev)
 
+<p align="center">
+  <a href="="https://skills.syvixor.com">
+    <img src="https://skills.syvixor.com/api/icons?i=c,cpp,java,python,html,css3,git,mysql,ubuntu,latex,figma,canva,capcut" />
+  </a>
+</p>
+<p align="center">
+  <a href="="https://github-readme-stats.vercel.app">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slightsmile&theme=dark&show_icons=true&hide_border=true&layout=compact" />
+  </a>
+</p>
 
-
-![Slightsmile's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Slightsmile&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 
 > “Strive not to be a success, but rather to be of value.” – *Albert Einstein*
