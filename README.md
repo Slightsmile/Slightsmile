@@ -23,4 +23,6 @@ I'm currently exploring opportunities to apply my knowledge in real-world projec
 
 ---
 
+![Slightsmile's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Slightsmile&theme=dark&show_icons=true&hide_border=true&layout=compact)
+
 > “Strive not to be a success, but rather to be of value.” – *Albert Einstein*
