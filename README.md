@@ -1,4 +1,4 @@
-![Readme](https://github.com/user-attachments/assets/0b6afce3-cd8b-4b99-bfd0-022a4ad9ad8a)
+![Readme](https://github.com/user-attachments/assets/ebb6c7c3-efc2-4205-aa6f-a913075220f9)
 
 🎓 **Computer Science & Engineering Student** at Daffodil International University  
 💼 Passionate about software development, data analysis, and creative problem-solving  
