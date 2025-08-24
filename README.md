@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=F7F7F7&width=800&lines=%F0%9F%91%8B+Hi%2C+I'm+MD.+Mohiuddin+Ahmed)](https://git.io/typing-svg)
+![Readme](https://github.com/user-attachments/assets/0b6afce3-cd8b-4b99-bfd0-022a4ad9ad8a)
 
 🎓 **Computer Science & Engineering Student** at Daffodil International University  
 💼 Passionate about software development, data analysis, and creative problem-solving  
@@ -34,7 +34,9 @@ I'm currently exploring opportunities to apply my knowledge in real-world projec
 
 <p align="center">
   <a href="="https://skills.syvixor.com">
-    <img src="https://skills.syvixor.com/api/icons?i=c,cpp,java,python,html,css3,javascript,arduino,git,mysql,ubuntu,latex,figma,canva,capcut" />
+    <img src="https://skills.syvixor.com/api/icons?i=c,cpp,java,python,html,css3,javascript,mysql"/>
+    <br>
+    <img src="https://skills.syvixor.com/api/icons?i=git,arduino,cisco,ubuntu,latex,figma,canva,capcut"/>
   </a>
 </p>
 <p align="center">
