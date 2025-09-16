@@ -34,9 +34,9 @@ I'm currently exploring opportunities to apply my knowledge in real-world projec
 
 <p align="center">
   <a href="="https://skills.syvixor.com">
-    <img src="https://skills.syvixor.com/api/icons?i=c,cpp,java,python,html,css3,javascript,mysql"/>
+    <img src="https://skills.syvixor.com/api/icons?i=c,cpp,java,python,html,css3,javascript,flutter,fastapi,mysql,postgresql"/>
     <br>
-    <img src="https://skills.syvixor.com/api/icons?i=git,arduino,cisco,ubuntu,latex,figma,canva,capcut"/>
+    <img src="https://skills.syvixor.com/api/icons?i=git,arduino,cisco,ubuntu,notion,latex,figma,canva,capcut"/>
   </a>
 </p>
 <p align="center">
