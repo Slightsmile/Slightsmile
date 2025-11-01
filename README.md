@@ -4,7 +4,7 @@
 💼 Passionate about software development, data analysis, and creative problem-solving  
 
 <p align="center">
-  <a href="https://sites.google.com/view/mohi28">
+  <a href="https://mohi-uddin.me">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/>
   </a>
   <a href="mailto:akibh987@gmail.com">
